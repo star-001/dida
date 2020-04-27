@@ -2,5 +2,8 @@
   "name": "dida",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron-packager": "^14.2.1"
+  }
 }
