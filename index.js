@@ -22,18 +22,7 @@ app.on('ready', ()=>{
 	tray = new Tray('/home/fan/Code/dida/dida.jpg')
 	let win = new BrowserWindow();
 	var trayMenuTemplate = [
-        {
-            label: '设置',
-            click: function () {} //打开相应页面
-        },
-        {
-            label: '帮助',
-            click: function () {}
-        },
-        {
-            label: '关于',
-            click: function () {}
-        },
+  
         {
             label: '退出',
             click: function () {
