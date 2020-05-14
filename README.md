@@ -1,2 +1,2 @@
 # dida
-electron版 简易滴答清单 
+electron版 用于 Manjaro Linux
